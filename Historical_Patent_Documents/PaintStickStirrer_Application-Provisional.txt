@@ -1,0 +1,120 @@
+(54 Title)
+
+Device Interface for Attaching and Rotating a Detachable Mixing Paddle/Stick/Blade with a Drill or Rotating Device for Enhanced Mixing of Viscous Materials
+
+(71) Application: Virgil Mehalek, Dover, NH (US)
+
+(72) Inventors: Virgil Mehalek, Dover, NH (US);
+
+(73) Assignee: V-Tank, LLC (New Hampshire - US)
+
+(57) Abstract
+
+[0001] Conventional paint and other viscous materials mixing paddles/sticks/blades, often made of wood and often provided for free with the purchase of paint and other viscous materials, are generally ineffective at thoroughly mixing paint and other viscous materials by hand, especially when the paint or other viscous materials has been sitting for a long time. While mixers that attach to drills or other rotating devices offer superior mixing, they require immediate cleaning to prevent paint and other viscous materials from drying and adhering to the mixer blade, which can render it unusable over time. In addition, it is effort and time consuming to clean these mixer blades.
+
+[0002] This invention pertains to an adapter designed to be inserted into a drill or rotating device. One end of the adapter connects to the drill or rotating device, while the other end features a mechanism to attach to a mixing stick/paddle/blade. The adapter transfers rotational energy from the drill or rotating device to the mixing stick/paddle/blade allowing the stick/paddle/blade to rotate withing the paint or other viscous material causing mixing to occur. This provides significantly better mixing of the paint or other viscous materials than can be achieved by using the stick/paddle/blade by hand. After use, the mixing stick/paddle/blade can be easily detached and disposed of, eliminating the need for cleaning the mixer stick/paddle/blade and preventing future cross contamination.
+
+BACKGROUND
+
+[0003] Many individuals preparing to paint a surface or use other viscous materials (such as epoxy, roofing materials, etc) obtain the materials along with paint or other viscous materials mixing sticks/paddles/blades, typically about 1 inch wide and 15 inches long and about 1/8 inch thick, made of low-cost wood and often given away for free. There are several varieties of these in shape and size and potentially made of different materials.
+
+[0004] Before using the paint or other viscous material, it generally needs to be stirred to ensure a consistent homogeneous consistency prior application, as the materials in the paint or other viscous material can separate over time. Hand stirring with a paint or other viscous materials mixing stick/paddle/blade alone does not always fully mix the material about to be applied into a homogeneous mixture. In addition, hand stirring is both time-consuming and less effective than using a rotating mixer.
+
+[0005] Rotating mixer blades however require immediate cleaning after use because the paint or other viscous material on them will dry and adhere to the mixer blade, which can render it unusable. Additionally, improper cleaning can lead to cross-contamination of paint colors or materials and types.
+
+[0006] This invention addresses these issues by introducing an adapter that can be inserted into a drill or other rotating device. One end of the adapter connects to the drill or rotating device, while the other end features a mechanism to attach to a paint or other viscous materials mixing stick/paddle/blade. The adapter allows the paint or other viscous materials mixing stick/paddle/blade to rotate in conjunction with to drill or rotating device, providing significantly better mixing of the paint or other viscous materials compared to manual stirring. Once the mixing is complete, the mixing stick/paddle/blade can be easily detached and disposed of, eliminating the need for cleaning the mixer blade. This innovative approach not only ensures a more thorough mixing of the paint/viscous material, but also saves time and prevents potential cross contamination. There are variations of the mixing paddle/stick/blades that could be made from plastic, metal or other materials in various shapes and designs and some could also be designed to be durable for reuse. This invention is specific to the adapter to connect the stick/paddle/blades to a drill or rotational device and should be able to accommodate variations of blade designs.
+
+SUMMARY
+
+[0007] This invention provides an innovative solution for effectively mixing paint or other viscous materials using a disposable or durable paint or other viscous materials mixing stick/paddle/blade attached to a rotating device. The device comprises an adapter designed to be inserted into a drill or similar rotating mechanism. One end of the adapter securely connects to the drill, while the opposite end features a mechanism to attach a paint or other viscous materials mixing stick/paddle/blade or multiples of these stick/paddle/blades. The adapter transfers rotational energy from the drill or rotating device to the mixing stick/paddle/blade.
+
+[0008] The adapter can be made of various materials such as plastic, metal, wood, or other common manufacturing materials, or a combination of these materials. It includes a shank that is either smooth and round or matches industry-standard hex pattern designs for drill/driver/rotating device attachment or any other efficient mating shank design for common drill/driver/rotating devices or chuck mounting or quick hex disconnects. On the mixing stick/paddle/blade side, it has a mechanism for securely holding the paint or other viscous materials mixing stick/paddle/blade. This can be a friction mount that allows the stick/paddle/blade to be inserted into a slot, a lever-type friction mount, or a screw-on mounting system that can be either friction-based or non-friction-based or any other method for holding the mixing stick/paddle/blade securely place. The mounting system could have teeth, be smooth or rough, or use any combination that allows the paint stick to be securely held in place. It can also be held on with another device such as rubber bands, wire, string, temporary or permanent adhesive or other mounting techniques or technologies. The mixing stick/paddle/blade can be placed in the center of the mixer adapter, offset, or allow for multiple sticks/paddles/blades either off-center or on-center to further improve mixing.
+
+[0009] By allowing the paint or other viscous materials mixing stick/paddle/blade to rotate mechanically, this invention ensures thorough mixing of the paint or other viscous material, addressing the common issue of incomplete manual stirring. The rotating mixing stick/paddle/blade significantly improves the homogeneity of the paint or viscous mixture, making the preparation process more efficient and yielding better results.
+
+[0010] After the mixing process, the mixing stick/paddle/blade can be easily detached and disposed of, eliminating the need for cleaning the mixer blade and preventing cross-contamination between different paint colors paint or other viscous materials and types. This invention not only saves time and effort but also enhances the overall quality of the material application experience by providing a more consistent and reliable mixing method.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+
+[0011] FIG. 1 Illustrates a non-dimensional diagram of what one version of the adapter could look like and how it can be inserted into a rotating device, along with the paint or other viscous materials mixing stick/paddle/blade being mounted.
+
+[0012] FIG. 2 Illustrates a drawing showing variations including multiple paint or other viscous materials mixing sticks/paddles/blades mounted off center.
+
+[0013] FIG. 3 Shows CAD shaded views of one type of adapter mechanism.
+
+[0014] FIG. 4 Shows a photographic sequence of a working prototype of the paint or other viscous materials mixing stick/paddle/blade holder using a friction mechanism molded out of plastic.
+
+DETAILED DESCRIPTION
+
+[0015] The present invention relates to an adapter designed to improve the process of mixing paint and other viscous materials using a paint or other viscous materials mixing stick/paddle/blade in conjunction with a drill or other rotating device. The invention ensures more thorough and efficient mixing of paint or other viscous materials, particularly beneficial for paint or other viscous materials that have been sitting for extended periods, resulting in separated components.
+
+[0014] Components - Adapter Body – Material - The adapter body can be constructed from various materials, including plastic, metal, wood, or any combination thereof. These materials provide the necessary durability and compatibility with both the drill or other rotating device and the paint or other viscous materials mixing stick/paddle/blade.
+
+[0016] Shape and Design - The adapter is designed with a shank that is either smooth and round or matches industry-standard hex or pattern designs for drill/driver/rotating device attachment or any other efficient mating shank design for common drill/driver/rotating devices or chuck mounting or quick disconnects. This ensures secure attachment to a drill or rotating device.
+
+[0017] Paint or other viscous materials mixing stick/paddle/blade holder mechanism - types of mechanisms - The adapter includes a mechanism for securely holding the mixing stick/paddle/blade. This can be a friction mount that allows the stick/paddle/blade to be inserted into a slot, a lever-type friction mount, or a screw-on mounting system that can be either friction-based or non-friction-based or any other method for holding the mixing stick/paddle/blade securely place. The mounting system could have teeth, be smooth or rough, or use any combination that allows the stick/paddle/blade to be securely held in the adapter. It can also be held on with any other device such as rubber bands, wire, string, temporary or permanent adhesive or other mounting techniques or technologies. This invention is specific to the adapter to connect the stick/paddle/blade to a drill or rotational device and should be able to accommodate variations of blade designs.
+
+[0018] Paint or other viscous materials mixing stick/paddle/blade placement -  placement options - The mixing stick/paddle/blade can be placed in the center of the mixer adapter or offset. The design also allows for the use of multiple mixing stick/paddle/blades, either centered or off-center, to further improve the mixing process.
+
+[0019] Attachment to Drill/Rotating Device - The adapter's shank is inserted into the chuck of a drill or rotating device and secured by tightening the chuck or using the available mechanism. The adapter allows the transfer of energy from the drill or rotations device to the mixing stick/paddle/blade enabling it to rotate in conjunction with to drill or rotating device The secure attachment ensures stable operation without slippage. Alternatively, the adapter could use a quick change collet type chuck or other methods.
+
+[0020] Inserting the mixing stick/paddle/blade - The paint or other viscous materials mixing stick/paddle/blade is inserted into the holder mechanism of the adapter. Depending on the type of mechanism (friction mount, lever-type, screw, etcetera), the mixing stick/paddle/blade is secured in place to prevent movement between the mixing stick/paddle/blade in the adapter during the mixing process allowing the rotation forces to rotate the mixing stick/paddle/blade while inserted into the paint or other viscous materials.
+
+[0021] Mixing process - Once the stick/paddle/blade is securely attached to the adapter and the adapter is secured to the drill or rotating device, the stick/paddle/blade is placed in the paint or other viscous material and the drill or rotating device is activated. The rotation causes the paint or other viscous materials mixing stick/paddle/blade to transfer rotational energy thoroughly mixing the paint or other viscous materials. This process is significantly more effective than manual stirring, ensuring a more homogeneous mixture.
+
+[0022] Disposal - After the mixing process is complete, the mixing stick/paddle/blade is detached from the adapter and disposed of, recycled or reused. This eliminates the need for cleaning the mixer blade, saving time and preventing cross-contamination between different paints or other viscous materials.
+
+[0023] Advantages – efficiency - The rotating paint or other viscous materials mixing stick/paddle/blade provides significantly better mixing compared to manual stirring, ensuring a more consistent and homogeneous mixing of the paint or other viscous materials.
+
+[0024] Advantages – convenience - The disposable nature of the paint or other viscous materials mixing stick/paddle/blade eliminates the need for cleaning, saving time and effort.
+
+[0025] Prevention of Cross-Contamination. By disposing of the paint or other viscous materials mixing stick/paddle/blade after use, the risk of cross-contaminating different paint colors or other viscous materials types is minimized.
+
+[0026] The adapter can be made from various materials and designed to fit different types of drills or rotating devices and use different types of mixing stick/paddle/blades, making it adaptable to a wide range of applications. This invention is specific to the adapter to connect the stick/paddle/blades to a drill or rotational device and should be able to accommodate variations of blade designs.
+
+[0027] FIG. 1: Presents a diagram showing the outline of one method for making this adapter device. 20 Front view with smooth shank. 21 side view. 22 top view. 23 bottom view showing the slot with a few friction ridges. 24 and 25 depicts the rotation of the assembly. 26 shows an example chuck/bit holder. 27 The drill diver mechanism. 28 Depicts that shank can me made smooth or in another shape. 29 Is the depiction of one type of commonly available paint or other viscous materials mixing stick/paddle/blades. 30 Is the body of the holder. The stick/paddle/blade 29 is inserted into the slot of the adapter 30 and held in place by friction.
+
+[0028] FIG. 2:  40, 42 show a depiction of a shank for use in a drill or rotating device. 41 shows a configuration of two paint or other viscous materials mixing stick/paddle/blades in another design held in place with a slotted friction mount. 43 shows a single stick/paddle/blade mounted at an offset.
+
+[0029] FIG. 3: Shows CAD diagrams of a single plastic adapter for a slotted friction based of this adapter holder.
+
+[0030] FIG. 4: Shows a series of photographs of the single friction adapter mixing stick/paddle/blade design in use in a can of paint.
+
+[0031] The described adapter provides an efficient, convenient, and versatile solution for mixing paint or other viscous materials using a drill or rotating device. Its design allows for secure attachment of a mixing stick/paddle/blade, which can then be rotated to achieve thorough mixing. The disposable nature of the mixing stick/paddle/blade reduces cleaning time and prevents cross-contamination, making this invention highly beneficial for both professional and non-professional users of viscous materials.
+
+[0032] While we have shown and described the embodiment in accordance with the present invention, it should be clear to those skilled in the art that further embodiments may be made without departing from the scope of the present invention.
+
+THE INVENTION CLAIMED IS
+
+[0033] A paint or other viscous materials mixing adapter comprising: a) An adapter body designed to be inserted into a drill or rotating device in order to hold a detachable mixing blade on the other end of the device allowing rotation energy from the drill or rotating device to be transferred to the stick/paddle/blade; b) A shank at one end of the adapter body, the shank being either round or conforming to custom or industry-standard hex pattern designs or other designs to securely fit into a drill or rotating device; c) A paint or other viscous materials mixing stick/paddle/blade holder mechanism at the opposite end of the adapter body, the mechanism configured to securely hold a mixing stick/paddle/blade to prevent movement between the adapter and stick/paddle/blade either centered or offset with one or more paint or other viscous materials mixing stick/paddle/blades.
+
+[0034] The paint or other viscous materials mixing adapter of claim 1, wherein: The adapter body is made from materials selected and consisting of plastic, metal, wood, or a combination of any common manufacturing materials.
+
+[0035] The paint mixing adapter of claim 1, wherein: The mixing stick/paddle/blade holder mechanism comprises a friction mount with a slot to insert the paint or other viscous materials mixing stick/paddle/blade.
+
+[0036] The mixing adapter of claim 1, wherein: The mixing stick/paddle/blade holder mechanism comprises a lever-type friction mount to secure the mixing stick/paddle/blade.
+
+[0037] The paint mixing adapter of claim 1, wherein: The mixing stick/paddle/blade holder mechanism comprises a screw-on mounting system to secure the paint or other viscous materials mixing stick/paddle/blade, the system being either friction-based or non-friction-based.
+
+[0038] The mixing adapter of claim 1, wherein: The paint or other viscous materials mixing stick/paddle/blade holder mechanism includes surface features selected from the group consisting of teeth, smooth surfaces, rough surfaces, or a combination thereof to enhance the grip on the stick/paddle/blade.
+
+[0039] The mixing adapter of claim 1, wherein: The paint or other viscous materials mixing stick/paddle/blade is held onto an adapter with any other device such as rubber bands, wire, string, temporary or permanent adhesive or other mounting techniques or technologies.
+
+[0040] The mixing adapter of claim 1, wherein: The paint or other viscous materials mixing stick/paddle/blade is positioned in the center, offset, or multiple sticks/paddles/blades are positioned off-center or on-center to improve the mixing process.
+
+[0041] A method for mixing paint or other viscous materials using a disposable or durable paint or other viscous materials mixing stick/paddle/blade, the method comprising:
+
+[0042]Attaching the shank of an adapter to a drill or rotating device;
+
+[0043] Inserting and securing a paint or other viscous materials mixing stick/paddle/blade into the holder mechanism of the adapter;
+
+[0044] Activating the drill or rotating device to rotate and transfer rotational energy to the paint or other viscous materials mixing stick/paddle/blade and mix the paint or other viscous materials;
+
+[0045] Detaching and disposing of the mixing stick/paddle/blade after the mixing process. Disposing could also include cleaning or recycling depending on the stick/paddle/blade composition and design.
+
+[0046] The adapter can also be made to accommodate various types of mixing stick/paddle/blades and is not inclusive of only the wooden paint or other viscous materials mixing stick/paddle/blades that are commonly provided with the purchase of paint or other viscous materials. The other mixing paddle/stick/blades could be made from plastic, metal in various shapes and designs and some could also be designed to be durable for reuse. This invention is specific to the adapter to connect the stick/paddle/blades to a drill or rotational device and should be able to accommodate variations of blade designs and rotational devices.
+
+[0047] Summary of the Claims
+
+[0048] The invention claimed includes a paint or other viscous materials mixing adapter designed for attachment to a drill or rotating device, featuring a shank for secure attachment to the rotation device  and a holder mechanism for the mixing stick/paddle/blades. The invention transfers rotational energy from the rotational device to the stick/paddle/blade so that it can rotate and mix a viscous material. The adapter and holder mechanism can be made from various materials and designed in various configurations to enhance paint or other viscous materials mixing efficiency. The method claimed includes the steps of attaching the adapter to a drill, securing the paint or other viscous materials mixing stick/paddle/blade, mixing the paint or other viscous materials by activating the drill or rotating device, and disposing of the stick/paddle/blade after use.
+

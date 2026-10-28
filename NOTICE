@@ -1,0 +1,25 @@
+Paint Stick Drill Adapter
+Copyright 2024-2026 V-Tank, LLC
+
+Source: https://github.com/vroom57/PaintStickDrillAdapter-HW
+
+Hardware design files
+  3d-Files/  (.f3d, .step, .stl, .3mf)
+  are licensed under the CERN Open Hardware Licence Version 2 - Permissive.
+  SPDX-License-Identifier: CERN-OHL-P-2.0
+  Full text: LICENSE
+
+Documentation and media
+  README files, images/ and Historical_Patent_Documents/
+  are licensed under the Creative Commons Attribution 4.0 International License.
+  SPDX-License-Identifier: CC-BY-4.0
+  Full text: LICENSE-DOCS
+
+If you make or sell products based on this design, CERN-OHL-P requires that
+recipients have access to this notice, for example by including it in the
+packaging or documentation, or by referencing the Source URL above.
+
+If you modify the design files and share them, keep this notice and add a
+note stating what you changed and when.
+
+This design is provided "as is", without any warranty. See LICENSE section 5.
